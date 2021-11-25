@@ -1,0 +1,5 @@
+/home/hello/myCode/java/test/springcloud/hello/cloud-provider-payment8001/src/main/java/xyz/wuhen/cloud/provider/payment/dao/PaymentDao.java
+/home/hello/myCode/java/test/springcloud/hello/cloud-provider-payment8001/src/main/java/xyz/wuhen/cloud/provider/payment/service/impl/PaymentServiceImpl.java
+/home/hello/myCode/java/test/springcloud/hello/cloud-provider-payment8001/src/main/java/xyz/wuhen/cloud/provider/payment/controller/PaymentController.java
+/home/hello/myCode/java/test/springcloud/hello/cloud-provider-payment8001/src/main/java/xyz/wuhen/cloud/provider/payment/PaymentApplication.java
+/home/hello/myCode/java/test/springcloud/hello/cloud-provider-payment8001/src/main/java/xyz/wuhen/cloud/provider/payment/service/PaymentService.java
