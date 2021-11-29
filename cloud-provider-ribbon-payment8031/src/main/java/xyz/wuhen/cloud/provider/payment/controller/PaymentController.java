@@ -22,4 +22,17 @@ public class PaymentController {
         return port;
     }
 
+
+
+    @GetMapping(value = "/payment/openfeign/timeout")
+    public String timeout() {
+        System.out.println("timeout---->" + port);
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return port;
+    }
+
 }

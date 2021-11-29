@@ -29,6 +29,7 @@
     <module>cloud-provider-ribbon-payment8033</module>
     <module>cloud-consumer-ribbon-order4030</module>
       <module>cloud-consumer-ribbon-order4040</module>
+    <module>cloud-consumer-openfeign-order4050</module>
   </modules>
   <packaging>pom</packaging>
 
