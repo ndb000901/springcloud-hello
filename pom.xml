@@ -30,6 +30,9 @@
     <module>cloud-consumer-ribbon-order4030</module>
       <module>cloud-consumer-ribbon-order4040</module>
     <module>cloud-consumer-openfeign-order4050</module>
+      <module>cloud-provider-hystrix-payment8041</module>
+    <module>cloud-consumer-feign-hystrix-order4060</module>
+      <module>cloud-consumer-hystrix-dashboard9001</module>
   </modules>
   <packaging>pom</packaging>
 
