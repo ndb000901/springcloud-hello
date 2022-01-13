@@ -33,6 +33,10 @@
       <module>cloud-provider-hystrix-payment8041</module>
     <module>cloud-consumer-feign-hystrix-order4060</module>
       <module>cloud-consumer-hystrix-dashboard9001</module>
+      <module>cloud-gateway9527</module>
+    <module>cloud-provider-gateway-payment8051</module>
+      <module>cloud-provider-gateway-payment8052</module>
+    <module>cloud-provider-gateway-payment8053</module>
   </modules>
   <packaging>pom</packaging>
 
