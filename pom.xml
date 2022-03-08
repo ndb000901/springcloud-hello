@@ -55,6 +55,9 @@
     <module>cloud-alibaba-nacos-consumer-order9001</module>
     <module>cloud-alibaba-nacos-consumer-order9002</module>
     <module>cloud-alibaba-sentinel-service8402</module>
+    <module>cloud-alibaba-seata-order2001</module>
+    <module>cloud-alibaba-seata-storage2002</module>
+    <module>cloud-alibaba-seata-account2003</module>
   </modules>
   <packaging>pom</packaging>
 
